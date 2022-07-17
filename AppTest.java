@@ -11,3 +11,5 @@ public class AppTest {
     assertTrue(true);
   }
 }
+}
+}asserts tru.testing.java
